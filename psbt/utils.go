@@ -11,8 +11,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/vergecurrency/btcd/txscript"
+	"github.com/vergecurrency/btcd/wire"
 )
 
 // writeTxWitness is a A utility function due to non-exported witness
